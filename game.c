@@ -24,7 +24,7 @@ int main(){
             printf("Lower number please\n");
         }
         else if(guessed_number<random_number){
-            printf("Higher nuber please\n");
+            printf("Higher number please\n");
         }
         else{
             printf("Congrats!!\n");
@@ -35,3 +35,4 @@ int main(){
 
     return 0;
 }
+
